@@ -1,0 +1,37 @@
+html {
+  cursor: pointer;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.hello {
+  background-color: red;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  padding-bottom: 0px;
+  width: 500px;
+  height: 200px;
+  border-radius: 15px 15px 0px 0px;
+  margin: 0em;
+  margin-bottom: 0em;
+}
+
+.name {
+  background-color: white;
+  color: black;
+  height: 50px;
+  font-size: 65px;
+  text-align: center;
+}
+
+.bottom {
+  width: 500px;
+  height: 50px;
+  background-color: red;
+  border-radius: 0px 0px 15px 15px;
+}
+.button {
+  color: red;
+  border-radius: 8px;
+  border: 2px solid red;
+}
